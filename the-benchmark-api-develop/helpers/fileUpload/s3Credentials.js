@@ -1,0 +1,6 @@
+export default {
+    BENCHMARK_BUCKET_NAME: "",
+    BENCHMARK_AWS_ACCESSKEY: "",
+    BENCHMARK_AWS_SECRET_ACCESS_KEY: "",
+  };
+  
